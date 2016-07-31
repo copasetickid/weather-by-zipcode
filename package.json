@@ -1,0 +1,13 @@
+{
+  "name": "weather-by-zipcode",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "ejs": "^2.3.1",
+    "forecastio": "^0.2.0",
+    "zippity-do-dah": "0.0.x"
+  }
+}
